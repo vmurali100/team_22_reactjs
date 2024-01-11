@@ -1,0 +1,15 @@
+h6{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-style: italic;
+    background-color: aqua;
+    
+}
+h5{
+    font-size: xx-small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    background-color: brown;
+}
